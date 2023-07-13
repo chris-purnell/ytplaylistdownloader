@@ -1,0 +1,20 @@
+{
+  "name": "ytdlscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "youtube-channel-videos": "^1.0.0",
+    "youtube-playlist": "^1.0.4",
+    "ytdl-core": "^4.11.4",
+    "ytpl": "^2.3.0"
+  }
+}
