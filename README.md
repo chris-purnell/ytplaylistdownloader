@@ -19,3 +19,6 @@ For macOS users, you can install FFmpeg using Homebrew:
 
 ```bash
 brew install ffmpeg
+
+## Running
+Change the playlistId field to match whatever playlist you want to download and then run node app.js while in the directory to begin the script
